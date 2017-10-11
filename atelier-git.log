@@ -1,0 +1,212 @@
+    1  $Home
+    2  pwd
+    3  ls
+    4  cd $HOME
+    5  ls
+    6  cd Desktop
+    7  $HOME
+    8  ls -la
+    9  head .zshrc
+   10  cat .zshrc > oh-my-zsh.txt
+   11  DISABLE_UPDATE_PROMPT=true
+   12  pwd
+   13  cd Desktop
+   14  cd WCS
+   15  ls
+   16  cd "3.Projets"
+   17  ls
+   18  cd "3. Projets"
+   19  ls
+   20  cd BornToBeWild
+   21  ls
+   22  cd Git
+   23  l
+   24  ls
+   25  git add README.md
+   26  git status
+   27  git branch dev
+   28  git chekout dev
+   29  y
+   30  git checkout dev
+   31  sudo apt install gitk
+   32  cd..
+   33  cd ..
+   34  ls
+   35  cd //
+   36  cd ..
+   37  ^B
+   38  pwd
+   39  gitk
+   40  cd Desktop
+   41  cd WCS
+   42  cd "3. Projets"
+   43  ls
+   44  cd BornToBeWild
+   45  ls
+   46  gitk
+   47  git k
+   48  no
+   49  install gitk
+   50  gitk
+   51  cd ..
+   52  ls
+   53  cd "2. Quêtes"
+   54  ls
+   55  mkdir "5. Quête Git"
+   56  ls
+   57  cd "5. Quête Git"
+   58  touch wild.php
+   59  git init
+   60  git add wild.php
+   61  git commit -m "A la Wild Code School on code en chaussette."
+   62  git status
+   63  gitk
+   64  brew update
+   65  $gitk
+   66  sudo apt install gitk
+   67  gitk
+   68  git version
+   69  $ brew install git
+   70  brew install git
+   71  $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   72  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   73  brew help
+   74  brew install gitk
+   75  brew doctor
+   76  brew update
+   77  git update
+   78  update-ref
+   79  brew install git
+   80  git version
+   81  which git
+   82  mv /usr/bin/git /usr/bin/git-apple
+   83  gitk
+   84  sudo apt install gitk
+   85  javac -help
+   86  sudo apt install gitk
+   87  gitk
+   88  apt-get install tcl
+   89  install tcl
+   90  sudo mv /usr/bin/git /usr/bin/git-system
+   91  gitk
+   92  git --version
+   93  gitk
+   94  cd ..
+   95  ls
+   96  cd "5. Git"
+   97  gitk
+   98  brew upgrade
+   99  gitk
+  100  brew update
+  101  cd /usr/local/bin
+  102  ls
+  103  ./gitk
+  104  brew doctor
+  105  echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.zshrc
+  106  brew doctor
+  107  zsh
+  108  brew doctor
+  109  ls
+  110  ./gitk
+  111  subl gitk
+  112  vim gitk
+  113  cd /Library/ScriptingAdditions
+  114  ls
+  115  ls -la
+  116  cd Adobe\ Unit\ Types.osax
+  117  ls
+  118  cd Contents
+  119  ls
+  120  cd
+  121  git --version
+  122  cd /user
+  123  pwd
+  124  cd Desktop
+  125  cd WCS
+  126  ls
+  127  cd "2. Quêtes"
+  128  ls
+  129  cd "5. Git"
+  130  ls
+  131  git checkout
+  132  git branch
+  133  git branch "dev"
+  134  git checkout
+  135  git checkout -b dev
+  136  git checkout dev
+  137  git checkout -b wcs
+  138  touch "wild.php"
+  139  git add "wild.php"
+  140  git status
+  141  git commit -m "A la wild code school, on code en chaussettes"
+  142  git status
+  143  git init
+  144  git add "wild.php"
+  145  git commit -m "les chaussettes c'est la vie"
+  146  git status
+  147  git log
+  148  pwd
+  149  cd Desktop/WCS
+  150  ls
+  151  cd "2. Quêtes"
+  152  ls
+  153  cd "5. Git"
+  154  ls
+  155  git init
+  156  git checkout wcs
+  157  git touch "wild2.php"
+  158  touch "wild2.php"
+  159  git add wild2.php
+  160  git commit -m "A la Wild Code School on code en chaussettes et avec des cookies"
+  161  git status
+  162  history > "historique_quête_git.log"
+  163  pwd
+  164  cd Desktop
+  165  mkdir Atelier
+  166  cd Atelier
+  167  git init
+  168  touch index.html
+  169  mkdir -p Assets/css
+  170  cd Assets
+  171  cd css
+  172  touch style.css
+  173  ls
+  174  cd ..
+  175  cd..
+  176  ls
+  177  cd ..
+  178  ls
+  179  sudo brew install tree 
+  180  brew install tree
+  181  tree
+  182  vim README.md
+  183* cd //
+  184* jkhfgk
+  185  git remote add origin https://github.com/varon27/Atelier2.git
+  186  git remote -v
+  187  git status
+  188  git add .
+  189  git status
+  190  git commit -m "Init"
+  191  git push origin master
+  192  git checkout -b dev
+  193  git push origin dev
+  194  pwd
+  195  git branch --all
+  196  git status
+  197  git commit -m "ajout du code html"
+  198  git status
+  199  git add index.html
+  200  git status
+  201  git commit -m "ajout du code html"
+  202  git add index.html
+  203  git status
+  204  git commit -m "modif titre h1"
+  205  git push origin dev
+  206  git branch --all
+  207  git fetch
+  208  git branch --all
+  209  git pull origin dev
+  210  git branch --all
+  211  git push origin dev
+  212  git branch --all
